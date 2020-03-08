@@ -1,4 +1,4 @@
-django==1.4.2
+django==1.11.29
 django-grappelli
 django_compressor
 django-smart-selects
